@@ -1,0 +1,5 @@
+name: enfSpawnerTiers
+main: com.enforcedmc.spawnertiers.SpawnerTiers
+version: 1.0
+author: EnforcedMC
+commands:
